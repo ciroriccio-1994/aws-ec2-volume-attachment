@@ -17,4 +17,4 @@ sudo mount /dev/sdb /mnt/data
 echo "Additional volume OK" | sudo tee /mnt/data/test.txt
 cat /mnt/data/test.txt
 lsblk
-![EBS Volume Screenshot](screenshot-ebs-volume.PNG)
+![EBS Volume Screenshot](screenshot-ebs-volume.png)
